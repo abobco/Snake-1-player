@@ -99,7 +99,7 @@ bool App::Init_SDL_Convenience()
 		}
 
 		//Create window
-		Window = SDL_CreateWindow("XabNab Level Editor", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, WindowWidth, WindowHeight, SDL_WINDOW_SHOWN);
+		Window = SDL_CreateWindow("snek", SDL_WINDOWPOS_UNDEFINED, SDL_WINDOWPOS_UNDEFINED, WindowWidth, WindowHeight, SDL_WINDOW_SHOWN);
 		if (Window == NULL)
 		{
 			printf("Window could not be created! SDL Error: %s\n", SDL_GetError());
