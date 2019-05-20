@@ -1,0 +1,15 @@
+﻿  LApp.cpp
+  LButton.cpp
+  LTexture.cpp
+  main.cpp
+  menu.cpp
+  menuButton.cpp
+  particle.cpp
+  Rectangle.cpp
+  snakeHead.cpp
+c:\sdl\snake 1 player public\snakehead.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\sdl\snake 1 player public\snakehead.cpp(78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\sdl\snake 1 player public\snakehead.cpp(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\sdl\snake 1 player public\snakehead.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  snake 1 player public.vcxproj -> C:\SDL\snake 1 player public\Debug\snake 1 player public.exe
