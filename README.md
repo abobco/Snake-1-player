@@ -1,11 +1,16 @@
-Hi
+# SDL Snake
+#### This is a mouse controlled SDL game
+#### Originally made just to learn about SDL and game development in C++
+#### I eventually built this into a 2 player tron game you can find here:
+  #### Source: https://github.com/abobco/XNTron-source
+  #### Windows Releases: https://github.com/abobco/XNTron-Release
 
-unzip and run "snake 1 player public.exe" to play,
-  inside the "debug" folder
 
-Made with SDL_2 and the help of these tutorials
+# Required linked Development Libraries 
+#### SDL2 https://www.libsdl.org/download-2.0.php
+#### SDL2_image https://www.libsdl.org/projects/SDL_image/
+#### SDL2_ttf https://www.libsdl.org/projects/SDL_ttf/
+#### SDL2_mixer https://www.libsdl.org/projects/SDL_mixer/
 
-Requires SDL_2, SDL_image, and SDL_ttf linked to compile 
-
-https://github.com/MetaCipher/sdl-2.0-basics
-SDLTutorials.com
+#### https://github.com/MetaCipher/sdl-2.0-basics
+#### www.SDLTutorials.com
