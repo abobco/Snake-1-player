@@ -13,4 +13,5 @@
 
 # Made with the help of these tutorials
 #### https://github.com/MetaCipher/sdl-2.0-basics
+#### http://lazyfoo.net/tutorials/SDL/index.php
 #### www.SDLTutorials.com
