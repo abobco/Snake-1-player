@@ -3,8 +3,6 @@
 #### Originally made just to learn about SDL and game development in C++
 #### I eventually built this into a 2 player tron game you can find here:
   #### Source: https://github.com/abobco/XNTron-source
-  #### Windows Releases: https://github.com/abobco/XNTron-Release
-
 
 # Required linked Development Libraries 
 #### SDL2 https://www.libsdl.org/download-2.0.php
